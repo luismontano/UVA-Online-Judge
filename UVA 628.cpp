@@ -1,4 +1,7 @@
 
+/* Usuario: luis11122
+   Lenguaje: C++ 
+*/
 #include<iostream>
 #include <vector>
 using namespace std;
